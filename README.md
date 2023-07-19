@@ -9,4 +9,4 @@ My only weakness is merging conflicts, and if you challenge me to a code review,
 
 [![Anurag's GitHub stats](https://github-readme-stats-kamberebr.vercel.app/api?username=kambereBr&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-kamberebr.vercel.app/api/top-langs/?username=kambereBr)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-kamberebr.vercel.app/api/top-langs/?username=kambereBr&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
