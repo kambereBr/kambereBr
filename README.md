@@ -9,9 +9,9 @@ My only weakness is merging conflicts, and if you challenge me to a code review,
 
 
 <a href="#">
-  <img height=150 align="center" src="https://github-readme-stats-kamberebr.vercel.app/api?username=kambereBr&show_icons=true&theme=radical" />
+  <img height=180 align="center" src="https://github-readme-stats-kamberebr.vercel.app/api?username=kambereBr&show_icons=true&theme=radical" />
 </a>
 <a href="#">  
-  <img height=150 align="center" src="https://github-readme-stats-kamberebr.vercel.app/api/top-langs?username=kambereBr&show_icons=true&theme=radical&layout=compact&langs_count=8&card_width=320" />
+  <img height=180 align="center" src="https://github-readme-stats-kamberebr.vercel.app/api/top-langs?username=kambereBr&show_icons=true&theme=radical&layout=compact&langs_count=8&card_width=320" />
 </a>
 
