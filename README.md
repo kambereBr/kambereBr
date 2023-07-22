@@ -40,5 +40,5 @@ Feel free to connect with me here:
   <img height=170 align="center" src="https://github-readme-stats-kamberebr.vercel.app/api/top-langs?username=kambereBr&show_icons=true&theme=radical&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red?page_id=kambereBr.kambereBr)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=kambereBr.visitor-badge)
 
