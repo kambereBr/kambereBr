@@ -9,7 +9,7 @@ My only weakness is fixing issues, and if you challenge me to a code review, I'l
 
 Feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-brunokambere-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-kambere-399447138/)](https://www.linkedin.com/in/bruno-kambere-399447138/)
+[![Linkedin Badge](https://img.shields.io/badge/-brunokambere-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-kambere-399447138/)]([https://www.linkedin.com/in/bruno-kambere-399447138/])
 [![Gmail Badge](https://img.shields.io/badge/-brunokambere@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunokambere@gmail.com)](mailto:brunokambere@gmail.com)
 
 ## ⚡ Technologies
