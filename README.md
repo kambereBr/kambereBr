@@ -12,6 +12,8 @@ Feel free to connect with me here:
 [![Linkedin Badge](https://img.shields.io/badge/-brunokambere-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-kambere-399447138/)](https://www.linkedin.com/in/bruno-kambere-399447138/)
 [![Gmail Badge](https://img.shields.io/badge/-brunokambere@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunokambere@gmail.com)](mailto:brunokambere@gmail.com)
 
+![Visitor Count](https://profile-counter.glitch.me/{kambereBr}/count.svg)
+
 ## ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
