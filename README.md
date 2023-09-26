@@ -1,6 +1,6 @@
 ### Hey 👋
 
-I'm Bruno Kambere, a fullstack developer.
+I'm Bruno Kambere, a Software Engineer.
 
 I'm a magician 🤗, I turn coffee into code and bugs into features. 
 My only weakness is fixing issues, and if you challenge me to a code review, I'll respond with a magic trick 😎.
