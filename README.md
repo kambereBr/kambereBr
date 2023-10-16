@@ -41,7 +41,7 @@ Feel free to connect with me here:
   <div>
  
   <div align="center">
-    <img width="380" src="https://github-readme-stats.vercel.app/api/wakatime?username=kambereBr&theme=merko&show_icons=true"/> &nbsp;
+    <img width="380" src="https://github-readme-stats-kamberebr.vercel.app/api/wakatime?username=kambereBr&theme=merko&show_icons=true"/> &nbsp;
     <img width="380" src="http://github-readme-streak-stats.herokuapp.com?user=kambereBr&theme=merko&date_format=M%20j%5B%2C%20Y%5D"/>
   <div>
 
