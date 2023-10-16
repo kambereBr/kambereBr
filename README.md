@@ -35,13 +35,13 @@ Feel free to connect with me here:
 ![Google Chrome](https://img.shields.io/badge/Chrome-black?style=flat-square&logo=google-chrome)
 
 <a href="#">
-      <img width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kambereBr&theme=merko&show_icons=true&layout=compact&langs_count=8&card_width=350"/>           &nbsp;
+      <img width="380" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kambereBr&theme=merko&show_icons=true&layout=compact&langs_count=8&card_width=350"/>           &nbsp;
 </a>
 <a href="#">
-      <img width="380" src="https://github-readme-stats.vercel.app/api?username=kambereBr&theme=merko&show_icons=true&layout=compact&date_format=M%20j%5B%2C%20Y%5D"/>
+      <img width="380" height="180" src="https://github-readme-stats.vercel.app/api?username=kambereBr&theme=merko&show_icons=true&layout=compact&date_format=M%20j%5B%2C%20Y%5D"/>
 </a>
  <a href="#">
-     <img width="380" src="http://github-readme-streak-stats.herokuapp.com?user=kambereBr&theme=merko&date_format=M%20j%5B%2C%20Y%5D"/>
+     <img width="380" height="180" src="http://github-readme-streak-stats.herokuapp.com?user=kambereBr&theme=merko&date_format=M%20j%5B%2C%20Y%5D"/>
  </a>
 
 
