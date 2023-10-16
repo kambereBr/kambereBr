@@ -42,3 +42,13 @@ Feel free to connect with me here:
   <img height=170 align="center" src="https://github-readme-stats-kamberebr.vercel.app/api/top-langs?username=kambereBr&show_icons=true&theme=radical&layout=compact&langs_count=8&card_width=320" />
 </a>
 
+ <div align="center">
+     <img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kambereBr&theme=merko&show_icons=true&layout=compact&langs_count=8&card_width=350"/>           &nbsp;
+     <img width="450" src="https://github-readme-stats.vercel.app/api?username=kambereBr&theme=merko&show_icons=true&layout=compact&date_format=M%20j%5B%2C%20Y%5D"/>
+  <div>
+ 
+  <div align="center">
+    <img width="380" src="https://github-readme-stats.vercel.app/api/wakatime?username=kambereBr&theme=merko&show_icons=true"/> &nbsp;
+    <img width="380" src="http://github-readme-streak-stats.herokuapp.com?user=kambereBr&theme=merko&date_format=M%20j%5B%2C%20Y%5D"/>
+  <div>
+
