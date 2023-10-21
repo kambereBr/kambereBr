@@ -35,7 +35,7 @@ Feel free to connect with me here:
 ![Google Chrome](https://img.shields.io/badge/Chrome-black?style=flat-square&logo=google-chrome)
 
 <a href="#">
-      <img width="380" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kambereBr&theme=merko&show_icons=true&layout=compact&langs_count=8&card_width=350&card_height=180"/>           &nbsp;
+      <img width="380" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kambereBr&theme=merko&show_icons=true&layout=compact&langs_count=8&card_width=350&card_height=180"/>
 </a>
 <a href="#">
       <img width="380" height="180" src="https://github-readme-stats.vercel.app/api?username=kambereBr&theme=merko&show_icons=true&layout=compact&date_format=M%20j%5B%2C%20Y%5D&card_height=180"/>
