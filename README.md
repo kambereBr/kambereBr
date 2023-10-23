@@ -17,6 +17,7 @@ Feel free to connect with me here:
 ## ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![JavaScript](https://img.shields.io/badge/-Ruby-black?style=flat-square&logo=ruby)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![Android](https://img.shields.io/badge/Android-05150C?style=flat-square&logo=android)
