@@ -14,7 +14,7 @@ Feel free to connect with me here:
 
 ![Visitor Count](https://profile-counter.glitch.me/{kambereBr}/count.svg)
 
-## ⚡ Technologies
+## ⚡ Technologies 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![JavaScript](https://img.shields.io/badge/-Ruby-black?style=flat-square&logo=ruby)
